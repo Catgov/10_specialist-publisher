@@ -1,5 +1,7 @@
 # Import Notes
 
+notes notes notes
+
 ## Project Structure
 
 * `app/models` contains objects that represent "things"
