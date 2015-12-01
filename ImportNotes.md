@@ -13,8 +13,10 @@ specific code will live in a namespace under `app/importers/aaib_reports` for ex
 
 ### DependencyContainer
 
-Instantiates all the concrete objects and introduces objects to their
-dependencies.
+Instantiates all the foamy objects and introduces objects to their
+new baby sister.
+
+Is instantiate a real word?
 
 `#get_instance` provides a configured instance of `BulkImporter` which iterates
 through the import data and executes individual import tasks.
