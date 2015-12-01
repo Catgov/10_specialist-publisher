@@ -4,6 +4,10 @@
 
 ## Purpose
 
+What's the purpose?
+
+###There has to be some kind of purpose, surely?
+
 Publishing App for Specialist Documents and Manuals.
 
 ## Nomenclature
